@@ -8,7 +8,7 @@ class SubSet
    int n,m; 
    Scanner sc=new Scanner(System.in);   
    System.out.println("Enter Main Array size:");
-   n=sc.nextInt();10
+   n=sc.nextInt();
    System.out.println("Enter size of subarray to check");
    m=sc.nextInt();
    int a[]=new int[n];
